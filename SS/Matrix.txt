@@ -1,0 +1,12 @@
+Edges     Vertices      starting Vert
+ 0        9             0
+Vertex      Distance from source
+  0                  0
+  1                  4
+  2                  11
+  3                  12
+  4                  3
+  5                  11
+  6                  9
+  7                  8
+  8                  13

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/AAA UCZELNIA/SEM4/PAMSI/P2/SS/List.hpp
+iostream
+-
+memory
+-
+vector
+-
+
+D:/AAA UCZELNIA/SEM4/PAMSI/P2/SS/Matrix.hpp
+iostream
+-
+
+D:/AAA UCZELNIA/SEM4/PAMSI/P2/SS/main.cpp
+time.h
+-
+Matrix.hpp
+D:/AAA UCZELNIA/SEM4/PAMSI/P2/SS/Matrix.hpp
+List.hpp
+D:/AAA UCZELNIA/SEM4/PAMSI/P2/SS/List.hpp
+

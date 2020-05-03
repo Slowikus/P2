@@ -1,0 +1,3 @@
+D:/AAA UCZELNIA/SEM4/PAMSI/P2/SS/cmake-build-debug/CMakeFiles/SS.dir
+D:/AAA UCZELNIA/SEM4/PAMSI/P2/SS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/AAA UCZELNIA/SEM4/PAMSI/P2/SS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
